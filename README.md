@@ -39,6 +39,12 @@ git push origin master
 
 git push (una vez ya enlazado los repositorios)
 
+#Bajar archivos del Repositorio:
+git clone url del repositorio (con esto creo una copia completa de los archivos del repositorio, esto se realiza una vez cuando los archivos no estan en la computadora)
+
+git pull origin master (traer todos los cambios del repositorio en la nube al local)
+
+
 
 
 
